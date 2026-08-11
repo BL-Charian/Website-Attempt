@@ -41,10 +41,11 @@ ul {
   align-items:center;
   background: #1F2937;
   display: flex;
+  flex-direction: row;
+  padding-top: 120px;
+  padding-bottom: 120px;
   gap: 80px;
-  height: 500px;
   justify-content: center;
-  padding: 0 120px;
   width: 100%;
 }
 h2 {
